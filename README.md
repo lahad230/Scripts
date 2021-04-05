@@ -1,4 +1,4 @@
-<h2>Powershell:</h2>
+#Powershell:
   
   
-    task.bash
+`task.ps1 -TaskName "name" -Sleep x`
