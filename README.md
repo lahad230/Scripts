@@ -5,4 +5,4 @@
 
 <h2>Bash:</h2>
 
-  `bash password.sh "MystrongPassword1"
+  `bash password.sh "MystrongPassword1`
